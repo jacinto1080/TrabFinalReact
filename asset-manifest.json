@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/jacinto1080/TrabFinalReact.git/static/css/main.44d52dfe.css",
-    "main.js": "/jacinto1080/TrabFinalReact.git/static/js/main.e8e909af.js",
-    "static/js/787.502a2359.chunk.js": "/jacinto1080/TrabFinalReact.git/static/js/787.502a2359.chunk.js",
-    "static/media/icono_comida.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_comida.8db5d783134c1b742f5157205d3852ab.svg",
-    "static/media/icono_ocio.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_ocio.9b27b6fc2f0380b621ad4a7e90c7047a.svg",
-    "static/media/icono_suscripciones.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_suscripciones.54af412d3a6e783ad71a30b3c5fae5b6.svg",
-    "static/media/icono_gastos.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_gastos.0bfa8c4a3e088877b4266c27f90747f8.svg",
-    "static/media/icono_ahorro.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_ahorro.c741f6c708db31f99e6d894ede5f1217.svg",
-    "index.html": "/jacinto1080/TrabFinalReact.git/index.html",
-    "static/media/icono_casa.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_casa.1cc157aae5305762e16451b5c5d22c01.svg",
-    "static/media/icono_salud.svg": "/jacinto1080/TrabFinalReact.git/static/media/icono_salud.661d2e8e922a57adc4174968fad70c65.svg",
-    "static/media/nuevo-gasto.svg": "/jacinto1080/TrabFinalReact.git/static/media/nuevo-gasto.898400973dc91c23f45e616b39d346be.svg",
-    "static/media/cerrar.svg": "/jacinto1080/TrabFinalReact.git/static/media/cerrar.0c10d412401060d8d34ee9b9983b75dd.svg",
-    "main.44d52dfe.css.map": "/jacinto1080/TrabFinalReact.git/static/css/main.44d52dfe.css.map",
-    "main.e8e909af.js.map": "/jacinto1080/TrabFinalReact.git/static/js/main.e8e909af.js.map",
-    "787.502a2359.chunk.js.map": "/jacinto1080/TrabFinalReact.git/static/js/787.502a2359.chunk.js.map"
+    "main.css": "/jacinto1080/TrabFinalReact/static/css/main.44d52dfe.css",
+    "main.js": "/jacinto1080/TrabFinalReact/static/js/main.b9bee543.js",
+    "static/js/787.502a2359.chunk.js": "/jacinto1080/TrabFinalReact/static/js/787.502a2359.chunk.js",
+    "static/media/icono_comida.svg": "/jacinto1080/TrabFinalReact/static/media/icono_comida.8db5d783134c1b742f5157205d3852ab.svg",
+    "static/media/icono_ocio.svg": "/jacinto1080/TrabFinalReact/static/media/icono_ocio.9b27b6fc2f0380b621ad4a7e90c7047a.svg",
+    "static/media/icono_suscripciones.svg": "/jacinto1080/TrabFinalReact/static/media/icono_suscripciones.54af412d3a6e783ad71a30b3c5fae5b6.svg",
+    "static/media/icono_gastos.svg": "/jacinto1080/TrabFinalReact/static/media/icono_gastos.0bfa8c4a3e088877b4266c27f90747f8.svg",
+    "static/media/icono_ahorro.svg": "/jacinto1080/TrabFinalReact/static/media/icono_ahorro.c741f6c708db31f99e6d894ede5f1217.svg",
+    "index.html": "/jacinto1080/TrabFinalReact/index.html",
+    "static/media/icono_casa.svg": "/jacinto1080/TrabFinalReact/static/media/icono_casa.1cc157aae5305762e16451b5c5d22c01.svg",
+    "static/media/icono_salud.svg": "/jacinto1080/TrabFinalReact/static/media/icono_salud.661d2e8e922a57adc4174968fad70c65.svg",
+    "static/media/nuevo-gasto.svg": "/jacinto1080/TrabFinalReact/static/media/nuevo-gasto.898400973dc91c23f45e616b39d346be.svg",
+    "static/media/cerrar.svg": "/jacinto1080/TrabFinalReact/static/media/cerrar.0c10d412401060d8d34ee9b9983b75dd.svg",
+    "main.44d52dfe.css.map": "/jacinto1080/TrabFinalReact/static/css/main.44d52dfe.css.map",
+    "main.b9bee543.js.map": "/jacinto1080/TrabFinalReact/static/js/main.b9bee543.js.map",
+    "787.502a2359.chunk.js.map": "/jacinto1080/TrabFinalReact/static/js/787.502a2359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44d52dfe.css",
-    "static/js/main.e8e909af.js"
+    "static/js/main.b9bee543.js"
   ]
 }
